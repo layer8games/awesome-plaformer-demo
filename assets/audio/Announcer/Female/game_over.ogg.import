@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/game_over.ogg-d5e1caba68088715f4f266da8af3ee0a.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/Announcer/Female/game_over.ogg"
+dest_files=[ "res://.import/game_over.ogg-d5e1caba68088715f4f266da8af3ee0a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

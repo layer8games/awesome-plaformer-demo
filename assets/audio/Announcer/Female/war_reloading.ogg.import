@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_reloading.ogg-22e25bd3e4cfb8606244e4fc5c038395.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/Announcer/Female/war_reloading.ogg"
+dest_files=[ "res://.import/war_reloading.ogg-22e25bd3e4cfb8606244e4fc5c038395.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

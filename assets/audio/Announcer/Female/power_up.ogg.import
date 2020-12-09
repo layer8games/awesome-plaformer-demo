@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/power_up.ogg-5ca562c47cbfdd2b383f538dce486231.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/Announcer/Female/power_up.ogg"
+dest_files=[ "res://.import/power_up.ogg-5ca562c47cbfdd2b383f538dce486231.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

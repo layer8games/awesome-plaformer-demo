@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/hurry_up.ogg-9d69a9095d07cc75156b5e83a032ca6b.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/Announcer/Male/hurry_up.ogg"
+dest_files=[ "res://.import/hurry_up.ogg-9d69a9095d07cc75156b5e83a032ca6b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

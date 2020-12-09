@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/7.ogg-1ff8c3589f027dac39e3f701d4c65ecc.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/Announcer/Male/7.ogg"
+dest_files=[ "res://.import/7.ogg-1ff8c3589f027dac39e3f701d4c65ecc.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

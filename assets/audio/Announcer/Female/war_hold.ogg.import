@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_hold.ogg-f458acdf5dc00e176655c7c11bf384af.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/Announcer/Female/war_hold.ogg"
+dest_files=[ "res://.import/war_hold.ogg-f458acdf5dc00e176655c7c11bf384af.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

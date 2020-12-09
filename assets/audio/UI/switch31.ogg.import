@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/switch31.ogg-87c9e32f97ec2cdc3731f4b90c4b81fd.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/UI/switch31.ogg"
+dest_files=[ "res://.import/switch31.ogg-87c9e32f97ec2cdc3731f4b90c4b81fd.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/level.ogg-811594c7214c0e4edc465979a1419498.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/Announcer/Male/level.ogg"
+dest_files=[ "res://.import/level.ogg-811594c7214c0e4edc465979a1419498.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

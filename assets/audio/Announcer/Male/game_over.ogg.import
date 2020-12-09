@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/game_over.ogg-7706a58c475864269d19363dad4bcdd7.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/Announcer/Male/game_over.ogg"
+dest_files=[ "res://.import/game_over.ogg-7706a58c475864269d19363dad4bcdd7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

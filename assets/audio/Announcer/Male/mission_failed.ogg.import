@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mission_failed.ogg-d0b237cfaa5bfc6bf8f8572878e34955.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/Announcer/Male/mission_failed.ogg"
+dest_files=[ "res://.import/mission_failed.ogg-d0b237cfaa5bfc6bf8f8572878e34955.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
